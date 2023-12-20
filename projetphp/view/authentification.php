@@ -6,4 +6,4 @@
     <button>Se connecter</button>
 
 </form>
-<a class="btn btn-dark" href="index.php?page=inscription" role="button">Se Connecter</a>
+<a class="btn btn-dark" href="index.php?page=inscription" role="button">S'inscrire</a>
